@@ -11,4 +11,23 @@ th {
 
 body {
 	margin-left: 8%;
+    background-color: #8DC6EC;
 }
+
+input {
+	background-color: #D5E8F5;
+	display: inline-block;
+	width: 300px;
+	font: #666666;
+}
+
+::-webkit-input-placeholder { /* WebKit browsers */
+    color:    #666666;
+}
+
+.button {
+	width: 100px;
+}
+
+
+
