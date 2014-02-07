@@ -21,3 +21,8 @@ group :test do
   gem 'faker'
   gem 'rspec'
 end
+
+group :development do
+  gem 'foreman'
+  gem 'heroku'
+end
